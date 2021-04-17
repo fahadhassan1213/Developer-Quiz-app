@@ -75,10 +75,6 @@ Or you can also connect a backend with this app to pick random questions on ever
 
 By changing the value of _Score_ variable you can maximize on minimize the percentage of scoring on each question 
 
-#### The following picture is divided into sections of code
-
-Your task is to check the working of code and apply this code in you project and make your code more awesome
-
 Deployment
 ========================
 When you have done with the setup you should host your site online
