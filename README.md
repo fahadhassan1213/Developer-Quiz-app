@@ -13,7 +13,6 @@ Table of Content
 
 * * * * *
 
--   [Sections](#)
 -   [Getting started](#)
 -   [How to get files](#)
 -   [Change and Customization](#)
