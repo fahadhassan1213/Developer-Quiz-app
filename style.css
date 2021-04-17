@@ -1,0 +1,26 @@
+.quiz-section{
+    background-color:#3867d6 ;
+}
+@keyframes animationName {
+    from{ transform: scale(0.5)}
+    to{ transform: scale(1);}
+}
+.h2-heading{
+   animation-name: animationName;
+   animation-timing-function: ease-out;
+   animation-duration:1s ;
+   animation-delay: 0.3s;
+
+}
+.h2-main{
+    color:black ;
+    font-weight: 700;
+}
+
+.my-btn{
+    border: none;
+    border-radius: 3px;
+    margin-left: 100px ;
+    font-weight: 400;
+
+}
