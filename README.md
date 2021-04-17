@@ -53,9 +53,13 @@ Change and Customization
 ========================
 
 * * * * *
-If you want to change or add more questions you have to change test of _p_ tag in the __index.html__ file
+For Questions, you have to change test of _p_ tag in the __index.html__ file
+For Answers, you have to change the text of _Label_ tag in the __index.html__ file
+As show in picture below:
 
 ![](images/questionForm.PNG)
+
+
 You can change the **app.js** file to addd more functionalities to the app
 
 ![](images/JSCode.PNG)
@@ -63,7 +67,9 @@ You can change the **app.js** file to addd more functionalities to the app
 How this app's code helps you
 ========================
 In the _app.js_ file you can get the javascript code 
+
 ![](images/JSCode.PNG)
+
 You can change the answers of your Question in _answers_ array
 
 Or you can also connect a backend with this app to pick random questions on every time you open the app
