@@ -1,5 +1,7 @@
 # Developer-Quiz-app
 ## A clean and interactive online quiz app
+
+#### Visit the app by clicking this [Developer Quiz app](https://developerquiz1213.netlify.app/)
 ![](Video/devQuiz.gif)
 
 #### Feel free to change or customize as much as you want
