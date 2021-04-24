@@ -25,11 +25,11 @@ Getting Started
 
 * * * * *
 
-These instructions will get you a copy of the project up and running on
+These instructions will get you a copy of the project and running on
 
 your local machine for development and testing purposes
 
-You will need [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/en/download/)
+You will need to install [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/en/download/) on your local machine/computer
 
 How to get files
 ================
@@ -46,8 +46,9 @@ Here you get a command line interface
 
 put command to clone the files on your local computer
 
-**\$ git clone https://github.com/fahadhassan1213/Developer-Quiz-app.git** 
-
+```git
+\$ git clone https://github.com/fahadhassan1213/Developer-Quiz-app.git 
+```
 Change and Customization
 ========================
 
